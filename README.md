@@ -9,7 +9,7 @@ Known working YAGSL Configs for COTS swerve modules.
 
 **NOTE: [YAGSL-Example](https://github.com/BroncBotz3481/YAGSL-Example)'s default driving mode is meant to test the swerve drive and not for competition, the left stick controls the translation and right controls the orientation using the gyroscope. All modes default to field orientated.**
 
-## Currently Support COTS Modules
+## Currently Supported COTS Modules
 * Swerve Drive Specialties
 	* MK4
 	* MK4i
